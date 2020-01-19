@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="两数之和————罗马数字">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/两数之和.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/回文数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/整数反转.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/罗马数字转整数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单的算法/两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单的算法/回文数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单的算法/整数反转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单的算法/罗马数字转整数.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tangzhen/development_tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\tangzhen\development_tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V9XQkl6ltmSPBkGdC3SNNT2Otm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.两数之和">
+    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.回文数" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.两数之和" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.罗马数字转整数" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.twoSum" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.两数之和" />
+        <item itemvalue="Application.回文数" />
+        <item itemvalue="Application.twoSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="" />
+      <created>1576666270837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576666270837</updated>
+      <workItem from="1576666272116" duration="2403000" />
+      <workItem from="1576718111477" duration="5999000" />
+      <workItem from="1577078712800" duration="8814000" />
+      <workItem from="1577251226852" duration="618000" />
+      <workItem from="1577252135469" duration="592000" />
+      <workItem from="1577253837470" duration="239000" />
+      <workItem from="1578276496366" duration="742000" />
+      <workItem from="1578292712328" duration="1778000" />
+      <workItem from="1579415841162" duration="1007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="两数之和————罗马数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="两数之和————罗马数字" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1084" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1576667354939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1084" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576667354939" />
+    <state x="728" y="139" key="CommitChangelistDialog2" timestamp="1579419980818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980818" />
+    <state x="931" y="244" key="FileChooserDialogImpl" timestamp="1579419829741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="931" y="244" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579419829741" />
+    <state width="1340" height="168" key="GridCell.Tab.0.bottom" timestamp="1579419980934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980934" />
+    <state width="1340" height="168" key="GridCell.Tab.0.center" timestamp="1579419980934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980934" />
+    <state width="1340" height="168" key="GridCell.Tab.0.left" timestamp="1579419980933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980933" />
+    <state width="1340" height="168" key="GridCell.Tab.0.right" timestamp="1579419980934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980934" />
+    <state x="904" y="213" key="NewModule_or_Project.wizard" timestamp="1577252706980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="213" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577252706980" />
+    <state x="431" y="191" key="SettingsEditor" timestamp="1579419699112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579419699112" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1577253935592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577253935592" />
+    <state x="867" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1577085827894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="867" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577085827894" />
+  </component>
+</project>
