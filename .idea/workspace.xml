@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="两数之和————罗马数字">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/两数之和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/回文数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/整数反转.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/罗马数字转整数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/简单的算法/两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/简单的算法/回文数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/简单的算法/整数反转.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/简单的算法/罗马数字转整数.java" afterDir="false" />
+    <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/简单的算法/最长公共前缀.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -48,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1V9XQkl6ltmSPBkGdC3SNNT2Otm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,9 +58,48 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.两数之和">
+  <component name="RunManager" selected="Application.twoSum">
     <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单的算法.回文数" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.两数之和" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.罗马数字转整数" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.最长公共前缀" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,9 +152,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.两数之和" />
         <item itemvalue="Application.回文数" />
         <item itemvalue="Application.twoSum" />
+        <item itemvalue="Application.回文数" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +200,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="两数之和————罗马数字" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="723" y="196" key="#Notifications" timestamp="1579423802734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="196" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1579423802734" />
     <state x="1084" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1576667354939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -179,34 +216,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="931" y="244" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579419829741" />
-    <state width="1340" height="168" key="GridCell.Tab.0.bottom" timestamp="1579419980934">
+    <state width="1340" height="433" key="GridCell.Tab.0.bottom" timestamp="1579433003049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980934" />
-    <state width="1340" height="168" key="GridCell.Tab.0.center" timestamp="1579419980934">
+    <state width="1340" height="433" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
+    <state width="1340" height="433" key="GridCell.Tab.0.center" timestamp="1579433003049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980934" />
-    <state width="1340" height="168" key="GridCell.Tab.0.left" timestamp="1579419980933">
+    <state width="1340" height="433" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
+    <state width="1340" height="433" key="GridCell.Tab.0.left" timestamp="1579433003049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980933" />
-    <state width="1340" height="168" key="GridCell.Tab.0.right" timestamp="1579419980934">
+    <state width="1340" height="433" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
+    <state width="1340" height="433" key="GridCell.Tab.0.right" timestamp="1579433003049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980934" />
+    <state width="1340" height="433" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
+    <state width="1340" height="433" key="GridCell.Tab.1.bottom" timestamp="1579433003050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="433" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003050" />
+    <state width="1340" height="433" key="GridCell.Tab.1.center" timestamp="1579433003049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="433" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
+    <state width="1340" height="433" key="GridCell.Tab.1.left" timestamp="1579433003049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="433" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
+    <state width="1340" height="433" key="GridCell.Tab.1.right" timestamp="1579433003049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="433" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
     <state x="904" y="213" key="NewModule_or_Project.wizard" timestamp="1577252706980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="904" y="213" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577252706980" />
+    <state x="924" y="271" key="RollbackChangesDialog" timestamp="1579423100748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="924" y="271" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579423100748" />
     <state x="431" y="191" key="SettingsEditor" timestamp="1579419699112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579419699112" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1577253935592">
+    <state x="714" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579432981619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577253935592" />
+    <state x="714" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579432981619" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579433125575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579433125575" />
     <state x="867" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1577085827894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
