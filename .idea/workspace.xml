@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/简单的算法/最长公共前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/最长公共前缀.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单的算法/有效的括号.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/简单的算法/最长公共前缀.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/简单的算法/最长公共前缀.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +54,41 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../URM" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.twoSum">
+  <component name="RunManager" selected="Application.有效的括号">
     <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单的算法.回文数" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.最长公共前缀" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.有效的括号" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -152,6 +180,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.有效的括号" />
+        <item itemvalue="Application.最长公共前缀" />
         <item itemvalue="Application.回文数" />
         <item itemvalue="Application.twoSum" />
         <item itemvalue="Application.回文数" />
@@ -189,7 +219,24 @@
       <workItem from="1578276496366" duration="742000" />
       <workItem from="1578292712328" duration="1778000" />
       <workItem from="1579415841162" duration="1007000" />
+      <workItem from="1579433126700" duration="87000" />
+      <workItem from="1579483352314" duration="6023000" />
     </task>
+    <task id="LOCAL-00001" summary="最长公共前缀">
+      <created>1579433194114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579433194114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="最长公共前缀">
+      <created>1579483800616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579483800616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +244,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="两数之和————罗马数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="两数之和————罗马数字" />
+    <MESSAGE value="最长公共前缀" />
+    <option name="LAST_COMMIT_MESSAGE" value="最长公共前缀" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="196" key="#Notifications" timestamp="1579423802734">
@@ -208,30 +256,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1084" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576667354939" />
-    <state x="728" y="139" key="CommitChangelistDialog2" timestamp="1579419980818">
+    <state x="728" y="139" key="CommitChangelistDialog2" timestamp="1579483799686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="728" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579419980818" />
-    <state x="931" y="244" key="FileChooserDialogImpl" timestamp="1579419829741">
+    <state x="728" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579483799686" />
+    <state x="931" y="244" key="FileChooserDialogImpl" timestamp="1579483904278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="931" y="244" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579419829741" />
-    <state width="1340" height="433" key="GridCell.Tab.0.bottom" timestamp="1579433003049">
+    <state x="931" y="244" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579483904278" />
+    <state width="1195" height="145" key="GridCell.Tab.0.bottom" timestamp="1579490797906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="433" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
-    <state width="1340" height="433" key="GridCell.Tab.0.center" timestamp="1579433003049">
+    <state width="1195" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579490797906" />
+    <state width="1195" height="145" key="GridCell.Tab.0.center" timestamp="1579490797906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="433" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
-    <state width="1340" height="433" key="GridCell.Tab.0.left" timestamp="1579433003049">
+    <state width="1195" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579490797906" />
+    <state width="1195" height="145" key="GridCell.Tab.0.left" timestamp="1579490797906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="433" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
-    <state width="1340" height="433" key="GridCell.Tab.0.right" timestamp="1579433003049">
+    <state width="1195" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579490797906" />
+    <state width="1195" height="145" key="GridCell.Tab.0.right" timestamp="1579490797906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="433" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579433003049" />
+    <state width="1195" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579490797906" />
     <state width="1340" height="433" key="GridCell.Tab.1.bottom" timestamp="1579433003050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -260,14 +308,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579419699112" />
-    <state x="714" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579432981619">
+    <state x="714" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579483817701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="714" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579432981619" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579433125575">
+    <state x="714" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579483817701" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579483378167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579433125575" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579483378167" />
     <state x="867" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1577085827894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
