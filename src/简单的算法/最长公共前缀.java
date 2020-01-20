@@ -44,14 +44,12 @@ public class 最长公共前缀 {
 
         return result;
     }
-}
 
 
-/**
- * 官方题解
- */
-class Solution {
 
+    /**
+     * 官方题解
+     */
     public String longestCommonPrefix(String[] strs) {
         if(strs.length == 0)
             return "";
@@ -69,3 +67,4 @@ class Solution {
         return ans;
     }
 }
+
