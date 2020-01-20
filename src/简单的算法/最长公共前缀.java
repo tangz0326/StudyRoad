@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class 最长公共前缀 {
     public static void main(String[] args) {
-        String[] str = {"arrewrre43", "arrewreek", "arrekewrewrelre2", "arrerewkre4", "arrewq"};
+        String[] str = {"arrejjjwrre43", "arrejjjwreek", "arrejjjkewrewrelre2", "arrejjjrewkre4", "arrejjjwq"};
 //        System.out.println("最小位数："+getMinLength(str));
         System.out.println("结果为："+solution(str));
     }
@@ -26,7 +26,7 @@ public class 最长公共前缀 {
     public static String solution(String[] strArr) {
         String[] newStr=strArr.clone();
         int len=getMinLength(newStr);
-        String s = "www";
+        String s = "";
         String result = "";
         for (int i = 0; i < len-1; i++) {
             s = strArr[0].substring(0, i+1);
