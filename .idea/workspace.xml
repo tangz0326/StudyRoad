@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="整数反转">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/简单的算法/整数反转.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/简单的算法/整数反转.java" afterDir="false" />
     </list>
@@ -302,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579516223144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="整数反转">
+      <created>1580284246337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580284246337</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,10 +330,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1084" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576667354939" />
-    <state x="397" y="13" key="CommitChangelistDialog2" timestamp="1580281983067">
+    <state x="397" y="13" key="CommitChangelistDialog2" timestamp="1580284453445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="397" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580281983067" />
+    <state x="397" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580284453445" />
     <state x="728" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579516222131" />
     <state x="931" y="244" key="FileChooserDialogImpl" timestamp="1579571008324">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -378,19 +384,20 @@
     </state>
     <state x="296" y="76" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580282918925" />
     <state x="431" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579497882195" />
-    <state x="571" y="224" key="Vcs.Push.Dialog.v2" timestamp="1580281819283">
+    <state x="571" y="224" key="Vcs.Push.Dialog.v2" timestamp="1580284469442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="571" y="224" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580281819283" />
+    <state x="571" y="224" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580284469442" />
     <state x="714" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579516252201" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580281472931">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580281472931" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579483378167" />
-    <state x="659" y="321" key="git4idea.merge.GitPullDialog" timestamp="1579570834618">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="527" y="254" key="git4idea.merge.GitPullDialog" timestamp="1580284377944">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="527" y="254" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1580284377944" />
     <state x="659" y="321" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579570834618" />
     <state x="867" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1577085827894">
       <screen x="0" y="0" width="1920" height="1040" />
