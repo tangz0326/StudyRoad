@@ -23,4 +23,7 @@ public class 整数反转 {
         System.out.println(result);
         return result;
     }
+    public static void test(){
+        System.out.println("yes");
+    }
 }
