@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/简单的算法/八大排序.java" afterDir="false" />
+    <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="整数反转">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/简单的算法/合并两个有序链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/简单的算法/合并两个有序链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/简单的算法/有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/简单的算法/有效的括号.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/简单的算法/整数反转.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/简单的算法/整数反转.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,76 +57,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.合并两个有序链表">
+  <component name="RunManager" selected="Application.twoSum">
     <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单的算法.回文数" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单的算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="八大排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单的算法.八大排序" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单的算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单的算法.合并两个有序链表" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单的算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单的算法.罗马数字转整数" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单的算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合并两个有序列表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单的算法.合并两个有序列表" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单的算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单的算法.合并两个有序链表" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -217,6 +151,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="八大排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.八大排序" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.合并两个有序链表" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.罗马数字转整数" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并两个有序列表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.合并两个有序列表" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.合并两个有序链表" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单的算法.twoSum" />
       <module name="algorithm" />
@@ -232,8 +231,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.合并两个有序链表" />
-        <item itemvalue="Application.八大排序" />
         <item itemvalue="Application.回文数" />
         <item itemvalue="Application.twoSum" />
         <item itemvalue="Application.回文数" />
@@ -275,6 +272,7 @@
       <workItem from="1579483352314" duration="6298000" />
       <workItem from="1579495983223" duration="9493000" />
       <workItem from="1579570802501" duration="4194000" />
+      <workItem from="1580281473221" duration="1179000" />
     </task>
     <task id="LOCAL-00001" summary="最长公共前缀">
       <created>1579433194114</created>
@@ -314,7 +312,8 @@
     <MESSAGE value="两数之和————罗马数字" />
     <MESSAGE value="最长公共前缀" />
     <MESSAGE value="有效括号" />
-    <option name="LAST_COMMIT_MESSAGE" value="有效括号" />
+    <MESSAGE value="整数反转" />
+    <option name="LAST_COMMIT_MESSAGE" value="整数反转" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="196" key="#Notifications" timestamp="1579423802734">
@@ -325,9 +324,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1084" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576667354939" />
-    <state x="728" y="139" key="CommitChangelistDialog2" timestamp="1579516222131">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="397" y="13" key="CommitChangelistDialog2" timestamp="1580281983067">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="397" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580281983067" />
     <state x="728" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579516222131" />
     <state x="931" y="244" key="FileChooserDialogImpl" timestamp="1579571008324">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -373,17 +373,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="924" y="271" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579423100748" />
-    <state x="431" y="191" key="SettingsEditor" timestamp="1579497882195">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="296" y="76" key="SettingsEditor" timestamp="1580282918925">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="296" y="76" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580282918925" />
     <state x="431" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579497882195" />
-    <state x="714" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579516252201">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="571" y="224" key="Vcs.Push.Dialog.v2" timestamp="1580281819283">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="571" y="224" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580281819283" />
     <state x="714" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579516252201" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579483378167">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580281472931">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580281472931" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579483378167" />
     <state x="659" y="321" key="git4idea.merge.GitPullDialog" timestamp="1579570834618">
       <screen x="0" y="0" width="1920" height="1040" />
