@@ -33,6 +33,7 @@ public class 搜索插入位置 {
 
 
     public int solution(int[] nums, int target) {
-        return 0;
+        int i=5
+        return i;
     }
 }
