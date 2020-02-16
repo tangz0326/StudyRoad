@@ -33,8 +33,6 @@ public class 搜索插入位置 {
 
 
     public int solution(int[] nums, int target) {
-        System.out.println("修改");
-        int i=10;
-        return i;
+        return 0;
     }
 }
