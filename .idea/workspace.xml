@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6160933-282b-4e66-aaff-918b99574713" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/删除排序数组中的重复项.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/实现strStr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/搜索插入位置.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/简单的算法/移除元素.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/简单的算法/搜索插入位置.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/简单的算法/搜索插入位置.java" afterDir="false" />
     </list>
@@ -9,6 +14,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithm" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,32 +69,6 @@
   <component name="RunManager" selected="Application.twoSum">
     <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单的算法.回文数" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单的算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单的算法.两数之和" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单的算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单的算法.罗马数字转整数" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -254,6 +236,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.两数之和" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单的算法.罗马数字转整数" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单的算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="实现strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单的算法.实现strStr" />
       <module name="algorithm" />
@@ -327,7 +335,9 @@
       <workItem from="1580382438879" duration="3301000" />
       <workItem from="1580877555873" duration="94000" />
       <workItem from="1581849047225" duration="1232000" />
-      <workItem from="1581850493718" duration="4813000" />
+      <workItem from="1581850493718" duration="5047000" />
+      <workItem from="1582368622540" duration="25000" />
+      <workItem from="1582593248137" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="最长公共前缀">
       <created>1579433194114</created>
@@ -406,11 +416,61 @@
       <option name="project" value="LOCAL" />
       <updated>1581853644407</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="搜索位置插入">
+      <created>1581857235555</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581857235555</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="algorithm" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="algorithm" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="两数之和————罗马数字" />
@@ -436,15 +496,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="543" y="295" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1580299074587" />
-    <state x="397" y="13" key="CommitChangelistDialog2" timestamp="1581853643428">
+    <state x="397" y="13" key="CommitChangelistDialog2" timestamp="1581857234352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="397" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581853643428" />
+    <state x="397" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581857234351" />
     <state x="728" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579516222131" />
-    <state x="745" y="193" key="FileChooserDialogImpl" timestamp="1580877642311">
+    <state x="572" y="112" key="FileChooserDialogImpl" timestamp="1582368649527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="745" y="193" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580877642311" />
+    <state x="572" y="112" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582368649527" />
     <state x="931" y="244" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579571008324" />
     <state width="1342" height="70" key="GridCell.Tab.0.bottom" timestamp="1580392806794">
       <screen x="0" y="0" width="1536" height="824" />
@@ -486,14 +546,14 @@
     </state>
     <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580392806787" />
     <state width="1876" height="387" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579577202698" />
-    <state x="116" y="117" key="MergeDialog" timestamp="1581854724283">
+    <state x="0" y="32" key="MergeDialog" timestamp="1581857269533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="116" y="117" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1581854724283" />
-    <state x="443" y="204" key="MultipleFileMergeDialog" timestamp="1581854724315">
+    <state x="0" y="32" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1581857269533" />
+    <state x="443" y="204" key="MultipleFileMergeDialog" timestamp="1581857269545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="443" y="204" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1581854724315" />
+    <state x="443" y="204" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1581857269545" />
     <state x="904" y="213" key="NewModule_or_Project.wizard" timestamp="1577252706980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -507,24 +567,24 @@
     </state>
     <state x="296" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581851788511" />
     <state x="431" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579497882195" />
-    <state x="240" y="132" key="Vcs.Push.Dialog.v2" timestamp="1581854785742">
+    <state x="240" y="132" key="Vcs.Push.Dialog.v2" timestamp="1582593552147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="240" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581854785742" />
+    <state x="240" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582593552147" />
     <state x="714" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579516252201" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580877554311">
+    <state x="103" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1582368630918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580877554311" />
+    <state x="103" y="164" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582368630917" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579483378167" />
     <state x="546" y="141" key="git4idea.branch.GitSmartOperationDialog" timestamp="1580284763819">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="546" y="141" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1580284763819" />
-    <state x="527" y="254" key="git4idea.merge.GitPullDialog" timestamp="1581857221859">
+    <state x="527" y="254" key="git4idea.merge.GitPullDialog" timestamp="1582593529151">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="527" y="254" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1581857221859" />
+    <state x="527" y="254" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1582593529151" />
     <state x="659" y="321" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579570834618" />
     <state x="694" y="286" width="672" height="538" key="search.everywhere.popup" timestamp="1580303611760">
       <screen x="0" y="0" width="1536" height="824" />

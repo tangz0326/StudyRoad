@@ -36,4 +36,8 @@ public class 搜索插入位置 {
         System.out.println("修改");
         return 0;
     }
+
+    public void test(){
+        System.out.println("这是远程仓库中没有的，我新增加的");
+    }
 }
